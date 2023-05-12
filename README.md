@@ -1,5 +1,5 @@
 # pokemonOrWhatever
-Meu único projeto que estou dando continuidade. Leia o readMe para mais informações
+Meu único projeto que estou dando continuidade. (pensarei em um nome melhor) Leia o readMe para mais informações
 
 
 ## Conceito

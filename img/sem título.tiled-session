@@ -1,0 +1,123 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "sprites and sheets",
+        "sprites and sheets/tile-archives",
+        "."
+    ],
+    "fileStates": {
+        "MUSHRROOOM.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "PC Computer - Undertale - Last Corridoa.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "PC Computer - Undertale - Last Corridor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "PC Computer - Undertale - Last Corridora.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "PC Computer - Undertale - Last Corridoradsasd.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "PC Computer - Undertale - Last Corridors.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aaaaas.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "colision.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "fourIsalnd.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hdsfay.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hhhh.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "k.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 247.5,
+                "y": 233.75
+            }
+        },
+        "kj.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 354.66666666666663,
+                "y": 449.99999999999994
+            }
+        },
+        "mushh.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "sprites and sheets/tile-archives/Game Boy Advance - Pokemon FireRed LeafGreen - Pallet Town.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "sprites and sheets/tile-archives/colision.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "undertale - last corridor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "undertale.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "E:/pokemon-style-game-main/img/sprites and sheets/tile-archives",
+    "last.imagePath": "E:/pokemon-style-game-main/img/sprites and sheets",
+    "map.lastUsedExportFilter": "Ficheiros de mapa JSON (*.tmj *.json)",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "sprites and sheets/tile-archives/Game Boy Advance - Pokemon FireRed LeafGreen - Pallet Town.tsx",
+        "sprites and sheets/tile-archives/colision.tsx"
+    ],
+    "project": "sem título.tiled-project",
+    "recentFiles": [
+        "sprites and sheets/tile-archives/Game Boy Advance - Pokemon FireRed LeafGreen - Pallet Town.tsx",
+        "sprites and sheets/tile-archives/colision.tsx",
+        "kj.tmx",
+        "fourIsalnd.tsx",
+        "MUSHRROOOM.tsx",
+        "colision.tsx",
+        "undertale.tsx",
+        "k.tmx",
+        "hdsfay.tsx",
+        "mushh.tsx",
+        "aaaaas.tsx",
+        "PC Computer - Undertale - Last Corridors.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

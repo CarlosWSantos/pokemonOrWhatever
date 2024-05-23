@@ -8,4 +8,4 @@ Em 5 dias de progresso consegui a movimentação, tentei usar pixel art pela pri
 Tentarei terminar esse projeto ou chegar em uma beta até o fim do ano.
 Atualmente (11/05/2023) ele não está muito funcional, mas está em progresso.
 
-Divitar-se :D
+Divirta-se :D
